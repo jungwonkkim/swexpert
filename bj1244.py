@@ -15,9 +15,7 @@ for i in range(s_num):
                 switch_list[i] = switch(switch_list[i])
     else:
         switch_list[b-1] = switch(switch_list[b-1])
-        if b == n:
-            continue
-        elif b == 1:
+        if b == n or b ==1:
             continue
         elif b>(n/2):
             for i in range(1, n-b+1):
