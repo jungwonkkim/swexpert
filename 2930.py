@@ -1,3 +1,5 @@
+#2930. 힙
+
 def max_heapify(arr,i):
     l = 2*i+1
     r = 2*i+2
@@ -37,17 +39,13 @@ for test_case in range(1, T + 1):
         if cmd[0] =='1':
             a, b = list(map(int,cmd.split()))
             heap.append(b)
-            heap = build_maxheap(heap)
         else :
             if heap:
+                heap = build_maxheap(heap)
                 result.append(heap[0])
                 del heap[0]
-                if heap:
-                    heap = build_maxheap(heap)
-            else:
+            else:    
                 result.append(-1)
-    print(f'#{test_case}', end = ' ')
-    for i in range(len(result)):
-        print(result[i], end = ' ')
-    print()
-    
+    re_str = ' '.join(result)
+    print(f'#{test_case} {re_str}')
+    print()    
