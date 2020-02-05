@@ -13,7 +13,6 @@ for test_case in range(1, T + 1):
             su_list.append(temp_list[i])
     for bolt in range(n):
         if su_list[bolt] not in am_list:
-            start_point = bolt
             bolt_list.append(su_list.pop(bolt))
             bolt_list.append(am_list.pop(bolt))
             break
