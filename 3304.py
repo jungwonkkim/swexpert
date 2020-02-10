@@ -13,3 +13,5 @@ for test_case in range(1, T+1):
             else:
                 subsequence[i+1][j+1] = max(subsequence[i+1][j], subsequence[i][j+1])
     print('#{} {}'.(test_case, subsequence[column][row]))
+
+    pipe_line = [list(map(int, input().split())) for _ in range(N)]

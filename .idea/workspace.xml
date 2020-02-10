@@ -2,13 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="67fad388-fc4e-4299-a94a-d9fe062bbdbc" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/1959수업.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/6109.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/boj16637.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/boj17144.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/새로운 연산수업.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/boj1152.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/boj1157.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/boj17070.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/swexpert.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/swexpert.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/boj17135.py" beforeDir="false" afterPath="$PROJECT_DIR$/boj17135.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3304.py" beforeDir="false" afterPath="$PROJECT_DIR$/3304.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -20,100 +20,64 @@
     <session id="-1044070795">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="2" />
-          <entry key="project.open.time.0" value="1" />
+          <entry key="project.closed" value="5" />
+          <entry key="project.open.time.0" value="2" />
           <entry key="project.open.time.1" value="1" />
-          <entry key="project.open.time.3" value="1" />
-          <entry key="project.opened" value="3" />
+          <entry key="project.open.time.2" value="1" />
+          <entry key="project.open.time.3" value="2" />
+          <entry key="project.opened" value="6" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="py" value="10" />
+          <entry key="py" value="20" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="Python" value="10" />
+          <entry key="Python" value="20" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="py" value="12597" />
+          <entry key="py" value="18768" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Python" value="12597" />
+          <entry key="Python" value="18768" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/boj13460.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1843">
-              <caret line="97" column="36" lean-forward="true" selection-start-line="97" selection-start-column="36" selection-end-line="97" selection-end-column="36" />
-              <folding>
-                <marker date="1580962717207" expanded="true" signature="4019:4220" ph="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/boj17144.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-143">
-              <caret line="8" column="35" lean-forward="true" selection-start-line="8" selection-start-column="35" selection-end-line="8" selection-end-column="35" />
-              <folding>
-                <marker date="1581053165733" expanded="true" signature="108:113" ph="..." />
-                <marker date="1581053165733" expanded="true" signature="862:1479" ph="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/1959수업.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="437">
-              <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/새로운 연산수업.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="95">
-              <caret line="5" column="34" selection-start-line="5" selection-start-column="34" selection-end-line="5" selection-end-column="34" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/boj16637.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="57">
-              <caret line="3" column="30" lean-forward="true" selection-start-line="3" selection-start-column="30" selection-end-line="3" selection-end-column="30" />
-            </state>
-          </provider>
-        </entry>
-      </file>
+    <leaf>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/6109.py">
+        <entry file="file://$PROJECT_DIR$/boj17070.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="123">
-              <caret line="45" column="30" lean-forward="true" selection-end-line="83" selection-end-column="15" />
+            <state relative-caret-position="339">
+              <caret line="18" column="24" lean-forward="true" selection-start-line="18" selection-start-column="24" selection-end-line="18" selection-end-column="24" />
               <folding>
-                <marker date="1581065106532" expanded="true" signature="410:834" ph="..." />
-                <marker date="1581065106532" expanded="true" signature="849:854" ph="..." />
-                <marker date="1581065106532" expanded="true" signature="849:1160" ph="..." />
-                <marker date="1581065106532" expanded="true" signature="1982:2007" ph="..." />
+                <marker date="1581325017889" expanded="true" signature="83:984" ph="..." />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/boj1157.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="266">
+              <caret line="14" column="38" lean-forward="true" selection-start-line="14" selection-start-column="38" selection-end-line="14" selection-end-column="38" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/boj1152.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="190">
+              <caret line="10" column="14" lean-forward="true" selection-start-line="10" selection-start-column="14" selection-end-line="10" selection-end-column="14" />
             </state>
           </provider>
         </entry>
@@ -142,12 +106,20 @@
         <option value="$PROJECT_DIR$/boj17144.py" />
         <option value="$PROJECT_DIR$/boj16637.py" />
         <option value="$PROJECT_DIR$/6109.py" />
+        <option value="$PROJECT_DIR$/test/명도 필터 적용.py" />
+        <option value="$PROJECT_DIR$/test/명도 필터.py" />
+        <option value="$PROJECT_DIR$/test/페인팅로봇.py" />
+        <option value="$PROJECT_DIR$/test/농작물 수확.py" />
+        <option value="$PROJECT_DIR$/../../서울 5반 김정원/문제3.py" />
+        <option value="$PROJECT_DIR$/boj1152.py" />
+        <option value="$PROJECT_DIR$/boj1157.py" />
+        <option value="$PROJECT_DIR$/boj17070.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="709" />
-    <option name="width" value="1218" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="953" />
+    <option name="width" value="974" />
     <option name="height" value="1047" />
   </component>
   <component name="ProjectView">
@@ -185,8 +157,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.6109">
-    <configuration name="1120.ladder2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.boj17070">
+    <configuration name="농작물 수확" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="swexpert" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -194,11 +166,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/test" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/1120.ladder2.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test/농작물 수확.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -207,7 +179,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="1959수업" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="페인팅로봇" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="swexpert" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -215,11 +187,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/test" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/1959수업.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test/페인팅로봇.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -228,7 +200,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="6109" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="문제3" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="swexpert" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -236,11 +208,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../../서울 5반 김정원" />
+      <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/6109.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../../서울 5반 김정원/문제3.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -249,7 +221,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="boj17135" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="boj1152" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="swexpert" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -261,7 +233,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/boj17135.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/boj1152.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -270,7 +242,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="boj17144" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="boj1157" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="swexpert" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -282,7 +254,28 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/boj17144.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/boj1157.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="boj17070" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="swexpert" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/boj17070.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -292,19 +285,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.1120.ladder2" />
-      <item itemvalue="Python.boj17135" />
-      <item itemvalue="Python.boj17144" />
-      <item itemvalue="Python.1959수업" />
-      <item itemvalue="Python.6109" />
+      <item itemvalue="Python.페인팅로봇" />
+      <item itemvalue="Python.문제3" />
+      <item itemvalue="Python.boj17070" />
+      <item itemvalue="Python.boj1152" />
+      <item itemvalue="Python.boj1157" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.6109" />
-        <item itemvalue="Python.boj17144" />
-        <item itemvalue="Python.1959수업" />
-        <item itemvalue="Python.boj17135" />
-        <item itemvalue="Python.1120.ladder2" />
+        <item itemvalue="Python.boj17070" />
+        <item itemvalue="Python.boj1157" />
+        <item itemvalue="Python.boj1152" />
+        <item itemvalue="Python.페인팅로봇" />
+        <item itemvalue="Python.문제3" />
       </list>
     </recent_temporary>
   </component>
@@ -322,15 +315,16 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="709" y="0" width="1218" height="1047" extended-state="0" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.6694915" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.07850369" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.33114034" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.3991228" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32681867" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3984799" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -362,41 +356,31 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/1959수업.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="437">
-          <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/boj17135.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="285">
           <caret line="15" column="20" lean-forward="true" selection-start-line="15" selection-start-column="20" selection-end-line="15" selection-end-column="20" />
-          <folding>
-            <marker date="1581040577648" expanded="true" signature="27:329" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/boj17144.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-143">
-          <caret line="8" column="35" lean-forward="true" selection-start-line="8" selection-start-column="35" selection-end-line="8" selection-end-column="35" />
-          <folding>
-            <marker date="1581053165733" expanded="true" signature="108:113" ph="..." />
-            <marker date="1581053165733" expanded="true" signature="862:1479" ph="..." />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/boj13460.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1843">
-          <caret line="97" column="36" lean-forward="true" selection-start-line="97" selection-start-column="36" selection-end-line="97" selection-end-column="36" />
-          <folding>
-            <marker date="1580962717207" expanded="true" signature="4019:4220" ph="..." />
-          </folding>
+          <caret line="97" column="36" selection-start-line="97" selection-start-column="36" selection-end-line="97" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/boj17144.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="8" column="35" selection-start-line="8" selection-start-column="35" selection-end-line="8" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1959수업.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="437">
+          <caret line="23" selection-start-line="23" selection-end-line="23" />
         </state>
       </provider>
     </entry>
@@ -407,22 +391,51 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/boj16637.py">
+    <entry file="file://$PROJECT_DIR$/6109.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="57">
-          <caret line="3" column="30" lean-forward="true" selection-start-line="3" selection-start-column="30" selection-end-line="3" selection-end-column="30" />
+        <state relative-caret-position="142">
+          <caret line="46" column="30" lean-forward="true" selection-start-line="46" selection-start-column="30" selection-end-line="46" selection-end-column="30" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/6109.py">
+    <entry file="file://$PROJECT_DIR$/boj16637.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="123">
-          <caret line="45" column="30" lean-forward="true" selection-end-line="83" selection-end-column="15" />
+        <state relative-caret-position="57">
+          <caret line="3" column="30" selection-start-line="3" selection-start-column="30" selection-end-line="3" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/명도 필터 적용.py" />
+    <entry file="file://$PROJECT_DIR$/../../서울 5반 김정원/문제3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="15" column="30" lean-forward="true" selection-start-line="15" selection-start-column="30" selection-end-line="15" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/농작물 수확.py" />
+    <entry file="file://$PROJECT_DIR$/test/페인팅로봇.py" />
+    <entry file="file://$PROJECT_DIR$/test/명도 필터.py" />
+    <entry file="file://$PROJECT_DIR$/boj1157.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="14" column="38" lean-forward="true" selection-start-line="14" selection-start-column="38" selection-end-line="14" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/boj1152.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="10" column="14" lean-forward="true" selection-start-line="10" selection-start-column="14" selection-end-line="10" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/boj17070.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="339">
+          <caret line="18" column="24" lean-forward="true" selection-start-line="18" selection-start-column="24" selection-end-line="18" selection-end-column="24" />
           <folding>
-            <marker date="1581065106532" expanded="true" signature="410:834" ph="..." />
-            <marker date="1581065106532" expanded="true" signature="849:854" ph="..." />
-            <marker date="1581065106532" expanded="true" signature="849:1160" ph="..." />
-            <marker date="1581065106532" expanded="true" signature="1982:2007" ph="..." />
+            <marker date="1581325017889" expanded="true" signature="83:984" ph="..." />
           </folding>
         </state>
       </provider>
