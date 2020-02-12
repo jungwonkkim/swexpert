@@ -1,3 +1,5 @@
+#백준1244 [ 스위치 켜고 끄기 ]
+
 def switch (n):
     if n == 1:
         return 0

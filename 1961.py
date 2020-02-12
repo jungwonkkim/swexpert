@@ -3,21 +3,16 @@ T = int(input())
 
 for test_case in range(1, T + 1):
     n = int(input())
-    meta_num_list = []
-    print(f'#{test_case}')
-    for i in range(1, n+1):
-        num_list = input().split()
-        num_list = [int(num) for num in num_list]
-        meta_num_list.append(num_list)
+    num_list = [list(input().split()) for _ in range(n)]
+    print('#{}'.format(test_case))
     for j in range(n):
         my_str = ''
-        for i in range(n):
-            my_str += str(meta_num_list[n-1-i][j])
+        for a in range(n):
+            my_str += num_list[n-1-a][j]
         my_str += ' '
-        for i in range(n):
-            my_str+=str(meta_num_list[n-1-j][n-1-i])
+        for b in range(n):
+            my_str+=num_list[n-1-j][n-1-b]
         my_str += ' '
-        for i in range(n):
-            my_str += str(meta_num_list[i][n-1-j])
+        for c in range(n):
+            my_str += num_list[c][n-1-j]
         print(my_str)
-      
