@@ -52,7 +52,7 @@ def bfs(time):
     if time > 0:
         for a in range(N):
             for b in range(M):
-                if visited[a][b]:
+                if visited[a][b] and a + b > L-time:
                     if route[a][b] == 1:
                         one(a,b)
                     if route[a][b] ==2:
@@ -70,6 +70,8 @@ def bfs(time):
         for res in result:
             visited[res[0]][res[1]] = True
         bfs(time-1)
+
+
 
 
 T = int(input())
