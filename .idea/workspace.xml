@@ -2,12 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="67fad388-fc4e-4299-a94a-d9fe062bbdbc" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/1868.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/boj14890.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/가윤언니전기버스.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/배열최소합_김정원.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/카드게임_김정원.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1868.py" beforeDir="false" afterPath="$PROJECT_DIR$/1868.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -71,13 +66,13 @@
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="24" />
-          <entry key="py" value="21432" />
+          <entry key="py" value="21894" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="PLAIN_TEXT" value="24" />
-          <entry key="Python" value="21432" />
+          <entry key="Python" value="21894" />
         </counts>
       </usages-collector>
     </session>
@@ -105,10 +100,10 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/1868.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="589">
-              <caret line="31" column="32" lean-forward="true" selection-start-line="31" selection-start-column="32" selection-end-line="31" selection-end-column="32" />
+            <state relative-caret-position="190">
+              <caret line="10" column="14" selection-start-line="10" selection-start-column="14" selection-end-line="10" selection-end-column="14" />
               <folding>
-                <marker date="1582015370857" expanded="true" signature="173:339" ph="..." />
+                <marker date="1582022752991" expanded="true" signature="367:368" ph="..." />
               </folding>
             </state>
           </provider>
@@ -195,7 +190,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="1">
     <option name="x" value="953" />
     <option name="width" value="974" />
     <option name="height" value="1047" />
@@ -373,13 +368,14 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="953" y="0" width="974" height="1047" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.125" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3114035" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3114035" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39473686" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -470,8 +466,8 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/1868.py</url>
-          <line>17</line>
-          <option name="timeStamp" value="22" />
+          <line>3</line>
+          <option name="timeStamp" value="24" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
@@ -791,10 +787,10 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/1868.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="589">
-          <caret line="31" column="32" lean-forward="true" selection-start-line="31" selection-start-column="32" selection-end-line="31" selection-end-column="32" />
+        <state relative-caret-position="190">
+          <caret line="10" column="14" selection-start-line="10" selection-start-column="14" selection-end-line="10" selection-end-column="14" />
           <folding>
-            <marker date="1582015370857" expanded="true" signature="173:339" ph="..." />
+            <marker date="1582022752991" expanded="true" signature="367:368" ph="..." />
           </folding>
         </state>
       </provider>

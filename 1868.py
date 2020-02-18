@@ -7,11 +7,10 @@ def zero(x, y):
     if bomb[x][y] != 0:
         return
     for aa in range(8):
-        nx = x+dl[aa][0]
-        ny = y+dl[aa][1]
-        if 0 <= nx < N and 0 <= ny < N and bomb[nx][ny] != '*':
-            zero(nx, ny)
-
+        nx = x + dl[aa][0]
+        ny = y + dl[aa][1]
+        if 0 <= nx < N and 0 <= ny < N and check[nx][ny] == False and bomb[nx][ny] != '*':
+            zero(nx,ny)
 
 T = int(input())
 
@@ -32,11 +31,11 @@ for test_case in range(1, T+1):
                 bomb[i][j] = cnt
     for i in range(N):
         for j in range(N):
-            if bomb[i][j] == 0:
+            if bomb[i][j] == 0 and check[i][j] == False:
                 bomb_cnt +=1
                 zero(i,j)
     for a in range(N):
         for b in range(N):
-            if check[a][b] and bomb[a][b] != '*':
+            if check[a][b]== False and bomb[a][b] != '*':
                 bomb_cnt +=1
     print('#{} {}'.format(test_case, bomb_cnt))
