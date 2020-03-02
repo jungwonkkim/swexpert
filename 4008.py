@@ -22,7 +22,7 @@ def calculate(num, idx):
             calculator[2] += 1
         if calculator[3] > 0 and numbers[idx] != 0:
             calculator[3] -=1
-            if num < 0 and num%numbers[i] != 0:
+            if num < 0 and num%numbers[idx]!=0:
                 calculate(num//numbers[idx]+1, idx+1)
             else:
                 calculate(num//numbers[idx], idx+1)
