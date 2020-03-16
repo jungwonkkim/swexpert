@@ -1,3 +1,4 @@
+#code created by jungwonkkim
 #1215 워드퍼즐 내에 회문 찾기
 def is_palindrome(string):
     rev = string[::-1]

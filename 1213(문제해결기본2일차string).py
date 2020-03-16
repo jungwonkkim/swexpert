@@ -1,3 +1,4 @@
+#code created by jungwonkkim
 # 1213. [S/W 문제해결 기본] 3일차 - String 
 
 for test_case in range(1,11):

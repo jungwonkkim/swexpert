@@ -1,3 +1,5 @@
+#code created by jungwonkkim
+
 #1204 :  최빈수 구하기
 
 def solve(arr):

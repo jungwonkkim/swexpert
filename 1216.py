@@ -1,3 +1,4 @@
+#code created by jungwonkkim
 #1216. S/W 문제해결 기본 3일차 - 회문2
 
 

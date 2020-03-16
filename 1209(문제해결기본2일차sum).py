@@ -1,3 +1,5 @@
+#code created by jungwonkkim
+
 #1209. s/w 문제해결 기본 2일차 Sum
 
 for test_case in range(1, 11):

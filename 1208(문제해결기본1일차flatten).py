@@ -1,4 +1,6 @@
-#1208 flatten 15분 08초
+#code created by jungwonkkim
+
+#1208 flatten
 
 for test_case in range(1, 11):
     dump = int(input())
