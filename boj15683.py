@@ -1,6 +1,5 @@
 #백준 15683 감시
 #code created by jungwonkkim
-import copy
 
 delta = [(0,1),(0,-1),(1,0),(-1,0)]
 direction = {1:[[0],[1],[2],[3]], 2:[[0,1], [2,3]], 3: [[0,2],[1,3],[0,3],[1,2]], 4: [[0,1,2], [1,2,3],[2,3,0],[3,0,1]], 5:[[0,1,2,3]]}
@@ -40,13 +39,11 @@ def dfs(n, arr):
 N, M = map(int, input().split())
 office = [list(map(int, input().split())) for _ in range(N)]
 camera = []
-min_sq = 0
+min_sq = M * N
 for i in range(N):
     for j in range(M):
         if 1<=office[i][j]<=5:
             camera.append((i,j))
-        if office[i][j] == 0:
-            min_sq +=1
 dfs(0,[])
 print(min_sq)
 
