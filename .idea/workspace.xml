@@ -2,10 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="67fad388-fc4e-4299-a94a-d9fe062bbdbc" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/boj15685.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testt.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/boj505_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/boj505_2.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/boj15683.py" beforeDir="false" afterPath="$PROJECT_DIR$/boj15683.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,49 +33,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
-  <component name="RunManager" selected="Python.boj15685">
-    <configuration name="boj14502" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="swexpert" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/boj14502.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="boj15683" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="swexpert" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/boj15683.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.boj505_1">
     <configuration name="boj15685" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="swexpert" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -119,6 +76,48 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="boj505_1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="swexpert" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/boj505_1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="boj505_2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="swexpert" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/boj505_2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="testt" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="swexpert" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -141,19 +140,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.boj14502" />
-      <item itemvalue="Python.boj15683" />
       <item itemvalue="Python.boj15686" />
       <item itemvalue="Python.testt" />
       <item itemvalue="Python.boj15685" />
+      <item itemvalue="Python.boj505_2" />
+      <item itemvalue="Python.boj505_1" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.boj505_1" />
+        <item itemvalue="Python.boj505_2" />
         <item itemvalue="Python.boj15685" />
         <item itemvalue="Python.boj15686" />
         <item itemvalue="Python.testt" />
-        <item itemvalue="Python.boj15683" />
-        <item itemvalue="Python.boj14502" />
       </list>
     </recent_temporary>
   </component>
@@ -171,42 +170,42 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state width="619" height="88" key="GridCell.Tab.0.bottom" timestamp="1584708522428">
+    <state width="1259" height="223" key="GridCell.Tab.0.bottom" timestamp="1584859786471">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
-    <state width="619" height="88" key="GridCell.Tab.0.bottom/0.0.1280.720@0.0.1280.720" timestamp="1584708522428" />
-    <state width="619" height="88" key="GridCell.Tab.0.center" timestamp="1584708522427">
+    <state width="1259" height="223" key="GridCell.Tab.0.bottom/0.0.1280.720@0.0.1280.720" timestamp="1584859786471" />
+    <state width="1259" height="223" key="GridCell.Tab.0.center" timestamp="1584859786471">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
-    <state width="619" height="88" key="GridCell.Tab.0.center/0.0.1280.720@0.0.1280.720" timestamp="1584708522427" />
-    <state width="619" height="88" key="GridCell.Tab.0.left" timestamp="1584708522427">
+    <state width="1259" height="223" key="GridCell.Tab.0.center/0.0.1280.720@0.0.1280.720" timestamp="1584859786471" />
+    <state width="1259" height="223" key="GridCell.Tab.0.left" timestamp="1584859786471">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
-    <state width="619" height="88" key="GridCell.Tab.0.left/0.0.1280.720@0.0.1280.720" timestamp="1584708522427" />
-    <state width="619" height="88" key="GridCell.Tab.0.right" timestamp="1584708522428">
+    <state width="1259" height="223" key="GridCell.Tab.0.left/0.0.1280.720@0.0.1280.720" timestamp="1584859786471" />
+    <state width="1259" height="223" key="GridCell.Tab.0.right" timestamp="1584859786471">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
-    <state width="619" height="88" key="GridCell.Tab.0.right/0.0.1280.720@0.0.1280.720" timestamp="1584708522428" />
-    <state width="1259" height="224" key="GridCell.Tab.1.bottom" timestamp="1584707894163">
+    <state width="1259" height="223" key="GridCell.Tab.0.right/0.0.1280.720@0.0.1280.720" timestamp="1584859786471" />
+    <state width="1259" height="223" key="GridCell.Tab.1.bottom" timestamp="1584859786472">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
-    <state width="1259" height="224" key="GridCell.Tab.1.bottom/0.0.1280.720@0.0.1280.720" timestamp="1584707894163" />
-    <state width="1259" height="224" key="GridCell.Tab.1.center" timestamp="1584707894163">
+    <state width="1259" height="223" key="GridCell.Tab.1.bottom/0.0.1280.720@0.0.1280.720" timestamp="1584859786472" />
+    <state width="1259" height="223" key="GridCell.Tab.1.center" timestamp="1584859786472">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
-    <state width="1259" height="224" key="GridCell.Tab.1.center/0.0.1280.720@0.0.1280.720" timestamp="1584707894163" />
-    <state width="1259" height="224" key="GridCell.Tab.1.left" timestamp="1584707894163">
+    <state width="1259" height="223" key="GridCell.Tab.1.center/0.0.1280.720@0.0.1280.720" timestamp="1584859786472" />
+    <state width="1259" height="223" key="GridCell.Tab.1.left" timestamp="1584859786471">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
-    <state width="1259" height="224" key="GridCell.Tab.1.left/0.0.1280.720@0.0.1280.720" timestamp="1584707894163" />
-    <state width="1259" height="224" key="GridCell.Tab.1.right" timestamp="1584707894163">
+    <state width="1259" height="223" key="GridCell.Tab.1.left/0.0.1280.720@0.0.1280.720" timestamp="1584859786471" />
+    <state width="1259" height="223" key="GridCell.Tab.1.right" timestamp="1584859786472">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
-    <state width="1259" height="224" key="GridCell.Tab.1.right/0.0.1280.720@0.0.1280.720" timestamp="1584707894163" />
-    <state x="644" y="185" key="com.intellij.ide.util.TipDialog" timestamp="1584696376128">
+    <state width="1259" height="223" key="GridCell.Tab.1.right/0.0.1280.720@0.0.1280.720" timestamp="1584859786472" />
+    <state x="644" y="185" key="com.intellij.ide.util.TipDialog" timestamp="1584768878538">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
-    <state x="644" y="185" key="com.intellij.ide.util.TipDialog/0.0.1280.720@0.0.1280.720" timestamp="1584696376128" />
+    <state x="644" y="185" key="com.intellij.ide.util.TipDialog/0.0.1280.720@0.0.1280.720" timestamp="1584768878538" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -310,6 +309,51 @@
           <url>file://$PROJECT_DIR$/boj15685.py</url>
           <line>28</line>
           <option name="timeStamp" value="42" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/boj505_2.py</url>
+          <line>8</line>
+          <option name="timeStamp" value="47" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/boj505_2.py</url>
+          <line>9</line>
+          <option name="timeStamp" value="48" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/boj505_2.py</url>
+          <line>68</line>
+          <option name="timeStamp" value="49" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/boj505_2.py</url>
+          <line>74</line>
+          <option name="timeStamp" value="50" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/boj505_2.py</url>
+          <line>73</line>
+          <option name="timeStamp" value="51" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/boj505_1.py</url>
+          <line>24</line>
+          <option name="timeStamp" value="52" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/boj505_1.py</url>
+          <line>13</line>
+          <option name="timeStamp" value="53" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/boj505_1.py</url>
+          <line>50</line>
+          <option name="timeStamp" value="54" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/boj505_1.py</url>
+          <line>49</line>
+          <option name="timeStamp" value="55" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
