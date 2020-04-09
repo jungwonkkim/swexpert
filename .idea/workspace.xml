@@ -2,6 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="67fad388-fc4e-4299-a94a-d9fe062bbdbc" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/1267.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/linked_list.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/linkedlist.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pro60057.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/수열편집_김정원.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/숫자추가_김정원.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -32,28 +38,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
-  <component name="RunManager" selected="Python.pro64064">
-    <configuration name="5099" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="swexpert" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/5099.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.수열편집_김정원">
     <configuration name="김정원_노드의거리" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="swexpert" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -67,6 +52,48 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="C:\Users\kjwwi\Desktop\김정원\swexpert\김정원_노드의거리.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="숫자추가_김정원" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="swexpert" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="C:\Users\kjwwi\Desktop\김정원\swexpert\숫자추가_김정원.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="수열편집_김정원" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="swexpert" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="C:\Users\kjwwi\Desktop\김정원\swexpert\수열편집_김정원.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -96,7 +123,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="boj6549" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="pro60057" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="swexpert" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -108,7 +135,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/boj6549.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pro60057.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -139,17 +166,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.5099" />
       <item itemvalue="Python.김정원_노드의거리" />
-      <item itemvalue="Python.boj6549" />
       <item itemvalue="Python.pro64064" />
+      <item itemvalue="Python.pro60057" />
+      <item itemvalue="Python.숫자추가_김정원" />
+      <item itemvalue="Python.수열편집_김정원" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.수열편집_김정원" />
+        <item itemvalue="Python.숫자추가_김정원" />
+        <item itemvalue="Python.pro60057" />
         <item itemvalue="Python.pro64064" />
         <item itemvalue="Python.김정원_노드의거리" />
-        <item itemvalue="Python.5099" />
-        <item itemvalue="Python.boj6549" />
       </list>
     </recent_temporary>
   </component>
@@ -172,59 +201,68 @@
     </state>
     <state x="421" y="116" key="FileChooserDialogImpl/0.0.1280.720/1920.0.1920.1080@0.0.1280.720" timestamp="1585801171954" />
     <state x="421" y="116" key="FileChooserDialogImpl/0.0.1280.720@0.0.1280.720" timestamp="1585291025781" />
-    <state width="1259" height="262" key="GridCell.Tab.0.bottom" timestamp="1585903291715">
-      <screen x="0" y="0" width="1280" height="720" />
+    <state width="938" height="137" key="GridCell.Tab.0.bottom" timestamp="1586421010018">
+      <screen x="1920" y="0" width="1920" height="1080" />
     </state>
     <state width="1259" height="206" key="GridCell.Tab.0.bottom/0.0.1280.680/1920.0.1920.1040@0.0.1280.680" timestamp="1585663677465" />
-    <state width="1259" height="219" key="GridCell.Tab.0.bottom/0.0.1280.720/1920.0.1920.1080@0.0.1280.720" timestamp="1585884740227" />
+    <state width="953" height="434" key="GridCell.Tab.0.bottom/0.0.1280.720/1920.0.1920.1080@0.0.1280.720" timestamp="1586305879152" />
+    <state width="938" height="137" key="GridCell.Tab.0.bottom/0.0.1280.720/1920.0.1920.1080@1920.0.1920.1080" timestamp="1586421010018" />
     <state width="1259" height="262" key="GridCell.Tab.0.bottom/0.0.1280.720@0.0.1280.720" timestamp="1585903291715" />
-    <state width="1259" height="262" key="GridCell.Tab.0.center" timestamp="1585903291715">
-      <screen x="0" y="0" width="1280" height="720" />
+    <state width="938" height="137" key="GridCell.Tab.0.center" timestamp="1586421010017">
+      <screen x="1920" y="0" width="1920" height="1080" />
     </state>
     <state width="1259" height="206" key="GridCell.Tab.0.center/0.0.1280.680/1920.0.1920.1040@0.0.1280.680" timestamp="1585663677465" />
-    <state width="1259" height="219" key="GridCell.Tab.0.center/0.0.1280.720/1920.0.1920.1080@0.0.1280.720" timestamp="1585884740226" />
+    <state width="953" height="434" key="GridCell.Tab.0.center/0.0.1280.720/1920.0.1920.1080@0.0.1280.720" timestamp="1586305879151" />
+    <state width="938" height="137" key="GridCell.Tab.0.center/0.0.1280.720/1920.0.1920.1080@1920.0.1920.1080" timestamp="1586421010017" />
     <state width="1259" height="262" key="GridCell.Tab.0.center/0.0.1280.720@0.0.1280.720" timestamp="1585903291715" />
-    <state width="1259" height="262" key="GridCell.Tab.0.left" timestamp="1585903291714">
-      <screen x="0" y="0" width="1280" height="720" />
+    <state width="938" height="137" key="GridCell.Tab.0.left" timestamp="1586421010017">
+      <screen x="1920" y="0" width="1920" height="1080" />
     </state>
     <state width="1259" height="206" key="GridCell.Tab.0.left/0.0.1280.680/1920.0.1920.1040@0.0.1280.680" timestamp="1585663677465" />
-    <state width="1259" height="219" key="GridCell.Tab.0.left/0.0.1280.720/1920.0.1920.1080@0.0.1280.720" timestamp="1585884740226" />
+    <state width="953" height="434" key="GridCell.Tab.0.left/0.0.1280.720/1920.0.1920.1080@0.0.1280.720" timestamp="1586305879151" />
+    <state width="938" height="137" key="GridCell.Tab.0.left/0.0.1280.720/1920.0.1920.1080@1920.0.1920.1080" timestamp="1586421010017" />
     <state width="1259" height="262" key="GridCell.Tab.0.left/0.0.1280.720@0.0.1280.720" timestamp="1585903291714" />
-    <state width="1259" height="262" key="GridCell.Tab.0.right" timestamp="1585903291715">
-      <screen x="0" y="0" width="1280" height="720" />
+    <state width="938" height="137" key="GridCell.Tab.0.right" timestamp="1586421010017">
+      <screen x="1920" y="0" width="1920" height="1080" />
     </state>
     <state width="1259" height="206" key="GridCell.Tab.0.right/0.0.1280.680/1920.0.1920.1040@0.0.1280.680" timestamp="1585663677465" />
-    <state width="1259" height="219" key="GridCell.Tab.0.right/0.0.1280.720/1920.0.1920.1080@0.0.1280.720" timestamp="1585884740226" />
+    <state width="953" height="434" key="GridCell.Tab.0.right/0.0.1280.720/1920.0.1920.1080@0.0.1280.720" timestamp="1586305879152" />
+    <state width="938" height="137" key="GridCell.Tab.0.right/0.0.1280.720/1920.0.1920.1080@1920.0.1920.1080" timestamp="1586421010017" />
     <state width="1259" height="262" key="GridCell.Tab.0.right/0.0.1280.720@0.0.1280.720" timestamp="1585903291715" />
-    <state width="1259" height="262" key="GridCell.Tab.1.bottom" timestamp="1585903291715">
-      <screen x="0" y="0" width="1280" height="720" />
+    <state width="1899" height="220" key="GridCell.Tab.1.bottom" timestamp="1586418550170">
+      <screen x="1920" y="0" width="1920" height="1080" />
     </state>
     <state width="1259" height="206" key="GridCell.Tab.1.bottom/0.0.1280.680/1920.0.1920.1040@0.0.1280.680" timestamp="1585663677466" />
-    <state width="1259" height="219" key="GridCell.Tab.1.bottom/0.0.1280.720/1920.0.1920.1080@0.0.1280.720" timestamp="1585884631697" />
+    <state width="953" height="434" key="GridCell.Tab.1.bottom/0.0.1280.720/1920.0.1920.1080@0.0.1280.720" timestamp="1586305879154" />
+    <state width="1899" height="220" key="GridCell.Tab.1.bottom/0.0.1280.720/1920.0.1920.1080@1920.0.1920.1080" timestamp="1586418550170" />
     <state width="1259" height="262" key="GridCell.Tab.1.bottom/0.0.1280.720@0.0.1280.720" timestamp="1585903291715" />
-    <state width="1259" height="262" key="GridCell.Tab.1.center" timestamp="1585903291715">
-      <screen x="0" y="0" width="1280" height="720" />
+    <state width="1899" height="220" key="GridCell.Tab.1.center" timestamp="1586418550170">
+      <screen x="1920" y="0" width="1920" height="1080" />
     </state>
     <state width="1259" height="206" key="GridCell.Tab.1.center/0.0.1280.680/1920.0.1920.1040@0.0.1280.680" timestamp="1585663677466" />
-    <state width="1259" height="219" key="GridCell.Tab.1.center/0.0.1280.720/1920.0.1920.1080@0.0.1280.720" timestamp="1585884631696" />
+    <state width="953" height="434" key="GridCell.Tab.1.center/0.0.1280.720/1920.0.1920.1080@0.0.1280.720" timestamp="1586305879153" />
+    <state width="1899" height="220" key="GridCell.Tab.1.center/0.0.1280.720/1920.0.1920.1080@1920.0.1920.1080" timestamp="1586418550170" />
     <state width="1259" height="262" key="GridCell.Tab.1.center/0.0.1280.720@0.0.1280.720" timestamp="1585903291715" />
-    <state width="1259" height="262" key="GridCell.Tab.1.left" timestamp="1585903291715">
-      <screen x="0" y="0" width="1280" height="720" />
+    <state width="1899" height="220" key="GridCell.Tab.1.left" timestamp="1586418550169">
+      <screen x="1920" y="0" width="1920" height="1080" />
     </state>
     <state width="1259" height="206" key="GridCell.Tab.1.left/0.0.1280.680/1920.0.1920.1040@0.0.1280.680" timestamp="1585663677466" />
-    <state width="1259" height="219" key="GridCell.Tab.1.left/0.0.1280.720/1920.0.1920.1080@0.0.1280.720" timestamp="1585884631695" />
+    <state width="953" height="434" key="GridCell.Tab.1.left/0.0.1280.720/1920.0.1920.1080@0.0.1280.720" timestamp="1586305879152" />
+    <state width="1899" height="220" key="GridCell.Tab.1.left/0.0.1280.720/1920.0.1920.1080@1920.0.1920.1080" timestamp="1586418550169" />
     <state width="1259" height="262" key="GridCell.Tab.1.left/0.0.1280.720@0.0.1280.720" timestamp="1585903291715" />
-    <state width="1259" height="262" key="GridCell.Tab.1.right" timestamp="1585903291715">
-      <screen x="0" y="0" width="1280" height="720" />
+    <state width="1899" height="220" key="GridCell.Tab.1.right" timestamp="1586418550170">
+      <screen x="1920" y="0" width="1920" height="1080" />
     </state>
     <state width="1259" height="206" key="GridCell.Tab.1.right/0.0.1280.680/1920.0.1920.1040@0.0.1280.680" timestamp="1585663677466" />
-    <state width="1259" height="219" key="GridCell.Tab.1.right/0.0.1280.720/1920.0.1920.1080@0.0.1280.720" timestamp="1585884631697" />
+    <state width="953" height="434" key="GridCell.Tab.1.right/0.0.1280.720/1920.0.1920.1080@0.0.1280.720" timestamp="1586305879153" />
+    <state width="1899" height="220" key="GridCell.Tab.1.right/0.0.1280.720/1920.0.1920.1080@1920.0.1920.1080" timestamp="1586418550170" />
     <state width="1259" height="262" key="GridCell.Tab.1.right/0.0.1280.720@0.0.1280.720" timestamp="1585903291715" />
-    <state x="644" y="185" key="com.intellij.ide.util.TipDialog" timestamp="1586049755816">
+    <state x="644" y="185" key="com.intellij.ide.util.TipDialog" timestamp="1586402511884">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
     <state x="644" y="175" key="com.intellij.ide.util.TipDialog/0.0.1280.680/1920.0.1920.1040@0.0.1280.680" timestamp="1585650266941" />
     <state x="644" y="185" key="com.intellij.ide.util.TipDialog/0.0.1280.720/1920.0.1920.1080@0.0.1280.720" timestamp="1586049755816" />
+    <state x="644" y="185" key="com.intellij.ide.util.TipDialog/0.0.1280.720/1920.0.1920.1080@1920.0.1920.1080" timestamp="1586402511884" />
     <state x="644" y="185" key="com.intellij.ide.util.TipDialog/0.0.1280.720@0.0.1280.720" timestamp="1585723407957" />
   </component>
   <component name="XDebuggerManager">
@@ -453,6 +491,61 @@
           <url>file://$PROJECT_DIR$/pro64064.py</url>
           <line>5</line>
           <option name="timeStamp" value="88" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/pro60057.py</url>
+          <line>3</line>
+          <option name="timeStamp" value="89" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/pro60057.py</url>
+          <line>4</line>
+          <option name="timeStamp" value="90" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/pro60057.py</url>
+          <line>8</line>
+          <option name="timeStamp" value="91" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/pro60057.py</url>
+          <line>16</line>
+          <option name="timeStamp" value="92" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/linkedlist.py</url>
+          <line>48</line>
+          <option name="timeStamp" value="93" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/숫자추가_김정원.py</url>
+          <line>51</line>
+          <option name="timeStamp" value="94" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/숫자추가_김정원.py</url>
+          <line>25</line>
+          <option name="timeStamp" value="96" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/숫자추가_김정원.py</url>
+          <line>33</line>
+          <option name="timeStamp" value="97" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/숫자추가_김정원.py</url>
+          <line>27</line>
+          <option name="timeStamp" value="98" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/숫자추가_김정원.py</url>
+          <line>43</line>
+          <option name="timeStamp" value="99" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/숫자추가_김정원.py</url>
+          <line>24</line>
+          <option name="timeStamp" value="100" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
