@@ -2,11 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="67fad388-fc4e-4299-a94a-d9fe062bbdbc" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/boj16234.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/노드의 합_김정원.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/이진수_김정원.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1240.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/boj17281.py" beforeDir="false" afterPath="$PROJECT_DIR$/boj17281.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,28 +33,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
-  <component name="RunManager" selected="Python.boj16234">
-    <configuration name="수열 합치기_김정원" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="swexpert" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/수열 합치기_김정원.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.이진수_김정원">
     <configuration name="별자리" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="swexpert" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -79,7 +55,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="암호_김정원" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="이진수_김정원" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="swexpert" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -91,7 +67,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/암호_김정원.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/이진수_김정원.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -227,19 +203,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.수열 합치기_김정원" />
-      <item itemvalue="Python.subtree_김정원" />
       <item itemvalue="Python.별자리" />
-      <item itemvalue="Python.pro17281" />
       <item itemvalue="Python.boj16234" />
+      <item itemvalue="Python.pro17281" />
+      <item itemvalue="Python.subtree_김정원" />
+      <item itemvalue="Python.이진수_김정원" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.이진수_김정원" />
         <item itemvalue="Python.boj16234" />
         <item itemvalue="Python.pro17281" />
         <item itemvalue="Python.별자리" />
         <item itemvalue="Python.subtree_김정원" />
-        <item itemvalue="Python.수열 합치기_김정원" />
       </list>
     </recent_temporary>
   </component>
@@ -263,36 +239,40 @@
     <state x="421" y="116" key="FileChooserDialogImpl/0.0.1280.720/1920.0.1920.1080@0.0.1280.720" timestamp="1585801171954" />
     <state x="2552" y="174" key="FileChooserDialogImpl/0.0.1280.720/1920.0.1920.1080@1920.0.1920.1080" timestamp="1586487563577" />
     <state x="421" y="116" key="FileChooserDialogImpl/0.0.1280.720@0.0.1280.720" timestamp="1585291025781" />
-    <state width="892" height="250" key="GridCell.Tab.0.bottom" timestamp="1588139073153">
-      <screen x="1920" y="0" width="1600" height="860" />
+    <state width="1259" height="182" key="GridCell.Tab.0.bottom" timestamp="1588144626544">
+      <screen x="0" y="0" width="1280" height="680" />
     </state>
+    <state width="1259" height="182" key="GridCell.Tab.0.bottom/0.0.1280.680/1920.0.1600.860@0.0.1280.680" timestamp="1588144626544" />
     <state width="892" height="250" key="GridCell.Tab.0.bottom/0.0.1280.680/1920.0.1600.860@1920.0.1600.860" timestamp="1588139073153" />
     <state width="1259" height="206" key="GridCell.Tab.0.bottom/0.0.1280.680/1920.0.1920.1040@0.0.1280.680" timestamp="1585663677465" />
     <state width="619" height="186" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1587300984722" />
     <state width="953" height="434" key="GridCell.Tab.0.bottom/0.0.1280.720/1920.0.1920.1080@0.0.1280.720" timestamp="1586305879152" />
     <state width="936" height="326" key="GridCell.Tab.0.bottom/0.0.1280.720/1920.0.1920.1080@1920.0.1920.1080" timestamp="1586500242728" />
     <state width="1259" height="137" key="GridCell.Tab.0.bottom/0.0.1280.720@0.0.1280.720" timestamp="1586449251211" />
-    <state width="892" height="250" key="GridCell.Tab.0.center" timestamp="1588139073152">
-      <screen x="1920" y="0" width="1600" height="860" />
+    <state width="1259" height="182" key="GridCell.Tab.0.center" timestamp="1588144626543">
+      <screen x="0" y="0" width="1280" height="680" />
     </state>
+    <state width="1259" height="182" key="GridCell.Tab.0.center/0.0.1280.680/1920.0.1600.860@0.0.1280.680" timestamp="1588144626543" />
     <state width="892" height="250" key="GridCell.Tab.0.center/0.0.1280.680/1920.0.1600.860@1920.0.1600.860" timestamp="1588139073152" />
     <state width="1259" height="206" key="GridCell.Tab.0.center/0.0.1280.680/1920.0.1920.1040@0.0.1280.680" timestamp="1585663677465" />
     <state width="619" height="186" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1587300984722" />
     <state width="953" height="434" key="GridCell.Tab.0.center/0.0.1280.720/1920.0.1920.1080@0.0.1280.720" timestamp="1586305879151" />
     <state width="936" height="326" key="GridCell.Tab.0.center/0.0.1280.720/1920.0.1920.1080@1920.0.1920.1080" timestamp="1586500242727" />
     <state width="1259" height="137" key="GridCell.Tab.0.center/0.0.1280.720@0.0.1280.720" timestamp="1586449251211" />
-    <state width="892" height="250" key="GridCell.Tab.0.left" timestamp="1588139073152">
-      <screen x="1920" y="0" width="1600" height="860" />
+    <state width="1259" height="182" key="GridCell.Tab.0.left" timestamp="1588144626543">
+      <screen x="0" y="0" width="1280" height="680" />
     </state>
+    <state width="1259" height="182" key="GridCell.Tab.0.left/0.0.1280.680/1920.0.1600.860@0.0.1280.680" timestamp="1588144626543" />
     <state width="892" height="250" key="GridCell.Tab.0.left/0.0.1280.680/1920.0.1600.860@1920.0.1600.860" timestamp="1588139073152" />
     <state width="1259" height="206" key="GridCell.Tab.0.left/0.0.1280.680/1920.0.1920.1040@0.0.1280.680" timestamp="1585663677465" />
     <state width="619" height="186" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1587300984721" />
     <state width="953" height="434" key="GridCell.Tab.0.left/0.0.1280.720/1920.0.1920.1080@0.0.1280.720" timestamp="1586305879151" />
     <state width="936" height="326" key="GridCell.Tab.0.left/0.0.1280.720/1920.0.1920.1080@1920.0.1920.1080" timestamp="1586500242727" />
     <state width="1259" height="137" key="GridCell.Tab.0.left/0.0.1280.720@0.0.1280.720" timestamp="1586449251210" />
-    <state width="892" height="250" key="GridCell.Tab.0.right" timestamp="1588139073152">
-      <screen x="1920" y="0" width="1600" height="860" />
+    <state width="1259" height="182" key="GridCell.Tab.0.right" timestamp="1588144626544">
+      <screen x="0" y="0" width="1280" height="680" />
     </state>
+    <state width="1259" height="182" key="GridCell.Tab.0.right/0.0.1280.680/1920.0.1600.860@0.0.1280.680" timestamp="1588144626544" />
     <state width="892" height="250" key="GridCell.Tab.0.right/0.0.1280.680/1920.0.1600.860@1920.0.1600.860" timestamp="1588139073152" />
     <state width="1259" height="206" key="GridCell.Tab.0.right/0.0.1280.680/1920.0.1920.1040@0.0.1280.680" timestamp="1585663677465" />
     <state width="619" height="186" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1587300984722" />
@@ -335,10 +315,10 @@
     <state width="953" height="434" key="GridCell.Tab.1.right/0.0.1280.720/1920.0.1920.1080@0.0.1280.720" timestamp="1586305879153" />
     <state width="936" height="220" key="GridCell.Tab.1.right/0.0.1280.720/1920.0.1920.1080@1920.0.1920.1080" timestamp="1586499867594" />
     <state width="1899" height="220" key="GridCell.Tab.1.right/0.0.1280.720@0.0.1280.720" timestamp="1586449251198" />
-    <state x="385" y="169" key="com.intellij.ide.util.TipDialog" timestamp="1588136816502">
+    <state x="357" y="153" width="923" height="527" key="com.intellij.ide.util.TipDialog" timestamp="1588144463828">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="385" y="169" key="com.intellij.ide.util.TipDialog/0.0.1280.680/1920.0.1600.860@0.0.1280.680" timestamp="1588136816502" />
+    <state x="357" y="153" width="923" height="527" key="com.intellij.ide.util.TipDialog/0.0.1280.680/1920.0.1600.860@0.0.1280.680" timestamp="1588144463828" />
     <state x="2401" y="214" key="com.intellij.ide.util.TipDialog/0.0.1280.680/1920.0.1600.860@1920.0.1600.860" timestamp="1587085908330" />
     <state x="644" y="175" key="com.intellij.ide.util.TipDialog/0.0.1280.680/1920.0.1920.1040@0.0.1280.680" timestamp="1585650266941" />
     <state x="385" y="169" key="com.intellij.ide.util.TipDialog/0.0.1280.680@0.0.1280.680" timestamp="1587300753505" />
