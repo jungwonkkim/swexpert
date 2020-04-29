@@ -1,3 +1,9 @@
+"""
+code by jungwonkkim
+https://www.acmicpc.net/problem/17281
+백준 야구
+"""
+
 import itertools
 
 pool = [1,2,3,4,5,6,7,8]
