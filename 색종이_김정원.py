@@ -52,6 +52,6 @@ covered = [[0 for _ in range(10)] for _ in range(10)]
 min_val = 26
 res = 0
 dfs(0, 0, [5, 5, 5, 5, 5])
-if min_val  == 26:
+if min_val == 26:
     min_val = -1
 print(min_val)
