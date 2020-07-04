@@ -3,36 +3,41 @@
 https://www.acmicpc.net/problem/17142
 code written by jungwonkkim
 """
-from copy import deepcopy
 from itertools import combinations
-
+from copy import deepcopy
 delta = [(0,1),(1,0),(-1,0),(0,-1)]
 
 def Verbreitung(arr, viruses):
     temp = deepcopy(arr)
-    cnt = -1
-    queue = viruses
+    cnt = 0
     visited = [[False for _ in range(N)] for _ in range(N)]
-    for v in viruses:
-        visited[v[0]][v[1]] = True
+    for virus in viruses:
+        temp[virus[0]][virus[1]] = cnt
+    queue = viruses
     while queue:
         cnt +=1
-        new_queue = []
+        blank = []
+        deactivated = []
         for a, b in queue:
-            temp[a][b] = cnt
             for dl in delta:
                 newa = a + dl[0]
                 newb = b + dl[1]
-                if -1 < newa < N and -1 < newb < N and visited[newa][newb] == False:
-                    if temp[newa][newb] == -1 or temp[newa][newb] == '*':
+                if -1 < newa < N and -1 < newb < N:
+                    if temp[newa][newb] == -1:
+                        temp[newa][newb] = cnt
+                        blank.append((newa, newb))
+                    elif temp[newa][newb] == '*' and visited[newa][newb] == False:
                         visited[newa][newb] = True
-                        new_queue.append((newa,newb))
-        queue = deepcopy(new_queue)
+                        deactivated.append((newa, newb))
+        queue = blank + deactivated
     for i in range(N):
         for j in range(N):
-            if arr[i][j] == '-1':
+            if temp[i][j] == -1:
                 return -1
-    return cnt
+    if blank:
+        return cnt
+    else:
+        return cnt - 1
 
 N, M = map(int, input().split())
 laboratory = [list(map(int, input().split())) for _ in range(N)]
@@ -47,18 +52,19 @@ for i in range(N):
         else:
             virus.append((i,j))
             laboratory[i][j] = '*'
-candidates = list(map(list, combinations(virus,M)))
-for candidate in candidates:
-    time = Verbreitung(laboratory, candidate)
-    if time == -1:
-        continue
-    else:
+if virus:
+    candidates = list(map(list, combinations(virus,M)))
+    for candidate in candidates:
+        time = Verbreitung(laboratory, candidate)
+        if time == -1:
+            continue
         if min_time > time:
             min_time = time
-if min_time == 10000:
-    print(-1)
+    if min_time == 10000:
+        print(-1)
+    else:
+        print(min_time)
 else:
-    print(min_time)
-
+    print(0)
 
 
